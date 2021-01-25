@@ -69,6 +69,19 @@
 		  </div>
 		</div>
 	  </div>
+	  
+	  <div class="column">
+		<div class="card">
+		  <img src="Images/Solihin.png" alt="Mike" style="width:100%">
+		  <div class="container">
+			<h2>Ahmad Solihin Bin Md Nor</h2>
+			<p class="title">Idealist</p>
+			<p>1132702506@student.mmu.edu.my</p>
+			<p><button onclick="location.href='mailto:1132702506@student.mmu.edu.my';" class="button">Contact</button></p>
+		  </div>
+		</div>
+	  </div>
+	  
 	  </div>
 	  
 	</div>
