@@ -31,7 +31,7 @@
   			<input disabled type="text" id="userID" name="userID" value="1"><br>
   			
     		<label for="uname">Username</label><br>
-  			<input disabled type="text" id="uname" name="uname" value="<?php echo $_SESSION['username']; ?>"><br>
+  			<input disabled type="text" id="uname" name="uname" value="<?php echo $_SESSION['Username']; ?>"><br>
   			
     		<label for="email">Email</label><br>
   			<input disabled type="text" id="email" name="email" value="Email"><br>
