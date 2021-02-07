@@ -18,8 +18,6 @@
 	<header>
 		<?php include"header.php" ?>
 	</header>
-
-			
 		<br>
 			<div class ="MiddleContent">
 		<!-- Slideshow container -->

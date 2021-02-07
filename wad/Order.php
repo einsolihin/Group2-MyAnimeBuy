@@ -24,7 +24,6 @@
 			<h1>Orders</h1>
 			
 			<hr>
-				
 		</div>
 	
   		<table>
@@ -32,12 +31,19 @@
     			<th>Orders</th>
         		<th>Date</th>
         		<th>Status</th>
+        		<th>Refund Request</th>
   			</tr>
   			<tr>
     			<td>Order ID</td>
       			<td>dd-mm-yy</td>
       			<td>Status</td>
+      			<td><button onclick="requestFunction()">Refund</button></td>
   			</tr>
+			<?php
+				function requestFunction(){
+					//
+				}
+			?>
   
 		</table>
 		
